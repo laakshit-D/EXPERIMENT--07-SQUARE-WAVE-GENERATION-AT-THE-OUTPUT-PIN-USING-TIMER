@@ -195,11 +195,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
  
-<img src="https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/94d3bdfa-a0cf-4744-b56a-449286fa8ec5" height="500" width="800">
+![image](https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/94d3bdfa-a0cf-4744-b56a-449286fa8ec5)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-<img src="https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/36e7f503-8559-42a6-aa04-3fe6c9ba8c62" height="500" width="800">
+![image](https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/36e7f503-8559-42a6-aa04-3fe6c9ba8c62)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
@@ -209,7 +209,7 @@ TOFF= 2ms ,
 TOTAL TIME = 4ms ,
 FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
-<img src="https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/e91b9c5a-37d3-424b-9261-5769e23106de" height="500" width="800">
+![image](https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/e91b9c5a-37d3-424b-9261-5769e23106de)
 
 FOR PULSE AT 700
 
@@ -218,7 +218,7 @@ TOFF= 1ms,
 TOTAL TIME = 4ms ,
 FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
-<img src="https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/a4ca3b3b-d6e1-4823-9b48-2390a3866c6e" height="500" width="800">
+![image](https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/a4ca3b3b-d6e1-4823-9b48-2390a3866c6e)
 
 FOR PULSE AT 900
 
@@ -227,7 +227,7 @@ TOFF= 0.5ms ,
 TOTAL TIME = 4ms ,
 FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
-<img src="https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/4fdf0b4f-181b-479e-b821-e33a0cbeb74f" height="500" width="800">
+![image](https://github.com/laakshit-D/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559976/4fdf0b4f-181b-479e-b821-e33a0cbeb74f)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
